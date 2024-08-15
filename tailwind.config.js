@@ -11,7 +11,6 @@ export default {
       'secondary-color' : '#32d095',
       'text-color' : '#525371',
       'body-color' : '#EDF2F6',
-      'card-color' : '#FFFFFF',
       'input-bgcolor' : '#d7e7f4',
     }
     },

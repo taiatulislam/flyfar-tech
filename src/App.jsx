@@ -4,6 +4,7 @@ import * as React from "react";
 import Modal from "@mui/material/Modal";
 
 import LoginModal from "./components/LoginModal";
+import Banner from "./components/Banner";
 
 function App() {
   const [open, setOpen] = React.useState(false);
@@ -29,6 +30,7 @@ function App() {
           </div>
         </div>
       </div>
+      <Banner></Banner>
     </div>
   );
 }
